@@ -1,6 +1,6 @@
 {
-	"name": "Bottus",
-	"description": " Whatsapp bot.",
+	"name": "DEVIL SER",
+	"description": " Devil Ser Bot.",
 	"keywords": [
 		"whatsapp",
 		"bot"
@@ -21,7 +21,7 @@
 		"SUDO": {
 			"description": "admin",
 			"required": true,
-			"value": "null"
+			"value": "919400173699"
 		},
 		"PREFIX": {
 			"description": "prefix, check for more",
@@ -36,7 +36,7 @@
 		"STICKER_PACKNAME": {
 			"description": "sticker pack info",
 			"required": true,
-			"value": "❤️,LyFE"
+			"value": "𝙳𝙴𝚅𝙸𝙻 𝚂𝙴𝚁 💝"
 		},
 		"HEROKU_APP_NAME": {
 			"description": "Heroku app name, same as above entered",
