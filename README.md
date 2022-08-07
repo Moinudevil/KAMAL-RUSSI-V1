@@ -1,4 +1,4 @@
-### WhatsApp MD user bot
+### Devil Ser MD user bot
 
 ### Setup
 
