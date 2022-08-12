@@ -1,4 +1,7 @@
-### Devil Ser MD user bot
+### KAMAL-RUSSI-V1 MD user bot created by Devil ser and kamal shoreshi 🖤 
+
+<div align="center">
+  <img border-radius: 15px src="https://i.imgur.com/IJbRkjL.jpeg" width="200" height="200"/>
 
 ### Setup
 
